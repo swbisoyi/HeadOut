@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (3.1.5)
+  - GoogleMaps (1.10.5)
+  - MisterFusion (0.8.0)
+  - MSTwitterSplashScreen (1.0.6)
+  - ObjectMapper (1.1.1)
+  - SABlurImageView (2.1.0)
+  - SAParallaxViewControllerSwift (1.4.0):
+    - MisterFusion
+    - SABlurImageView
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - MSTwitterSplashScreen
+  - ObjectMapper
+  - SAParallaxViewControllerSwift
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  GoogleMaps: da51c62c338c2d9c47cdad470a0d1e0e4b8544e4
+  MisterFusion: 3b20851bc79eeaba59070922102f1bd2866dfe02
+  MSTwitterSplashScreen: db3eaefa2b71b731b7497921e9f4cf8cc981f27a
+  ObjectMapper: 4143abed1dbd49b73d75092fe8fa1c88ed6434b7
+  SABlurImageView: 869da4e0b80e60b21b05d98509de98d0221c15d5
+  SAParallaxViewControllerSwift: 5c191b369bc4e2fd0771f66ae5b8da68a43ce599
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
